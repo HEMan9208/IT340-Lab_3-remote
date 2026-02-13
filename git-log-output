@@ -1,0 +1,35 @@
+commit 6e667a11b18530bf6cc878ab33a53692162de32d
+Author: HEMan9208 <he83@njit.edu>
+Date:   Fri Feb 13 12:47:09 2026 -0500
+
+    Revert "Add new text file for lab"
+    
+    This reverts commit b3d7273c49d58818847a4e4a2fea9ffb370b392c.
+
+commit b3d7273c49d58818847a4e4a2fea9ffb370b392c
+Author: HEMan9208 <he83@njit.edu>
+Date:   Fri Feb 13 12:45:20 2026 -0500
+
+    Add new text file for lab
+
+commit af210b2fe75450d77b16445fdfd6a4fb58582afe
+Author: HEMan9208 <he83@njit.edu>
+Date:   Fri Feb 13 12:40:07 2026 -0500
+
+    Add custom comment to hostname
+
+commit b18cbf923b359c4e00f2ef3de888e0d36e5a1317
+Author: HEMan9208 <he83@njit.edu>
+Date:   Fri Feb 13 11:58:11 2026 -0500
+
+    Add Experimental note to os-release
+    
+    Appended a comment for testing branch changes.
+
+commit 00a9dcb099d6bf270cb35781da1426020d381b8e
+Author: HEMan9208 <he83@njit.edu>
+Date:   Fri Feb 13 11:47:25 2026 -0500
+
+    Initial commit
+    
+    Initial Starting Point of the repo
